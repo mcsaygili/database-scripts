@@ -1,5 +1,6 @@
 /*
-After changing any database object can cause some database objects to become "invalid". You can use these scripts for identifying invalid objects.
+After changing any database object can cause some database objects to become "invalid". 
+You can use these scripts for identifying invalid objects.
 */
 
   SELECT DISTINCT OS.*
